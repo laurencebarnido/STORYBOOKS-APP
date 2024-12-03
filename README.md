@@ -28,6 +28,6 @@ StoryBook Mobile App.
 # Sign In Screen
 <img src="assets/images/we2.jpg">  
 
-# Tabs Screen
+# Tabs Screens
 <img src="assets/images/we.jpg">
 <img src="assets/images/we4.jpg">  
